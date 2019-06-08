@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Bangkok, Thailand"
   date_start = "2012"
-  date_end = ""
+  date_end = "2012"
   description = """
   *Distributed control and automation systems for large-scale chemical processes*
   
