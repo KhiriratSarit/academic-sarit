@@ -17,13 +17,13 @@
 [[main]]
   name = "Accomplishments"
   url = "#accomplishments"
-  weight = 20  
+  weight = 30  
   
 
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
+  weight = 30
 
 
 [[main]]
