@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Yokogawa, Thailand, Ltd."
   company_url = ""
   location = "Bangkok, Thailand"
-  date_start = "June 2012"
-  date_end = "July 2012"
+  date_start = "2012-06-01"
+  date_end = "2012-07-01"
   description = """
   *Distributed control and automation systems for large-scale chemical processes*
   
