@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  My research interest includes optimization algorithms for large-scale machine learning applications. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Optimization algorithms
+- Machine learning 
+- Low-precision training and compression techniques
 
 education:
   courses:
