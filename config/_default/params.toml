@@ -52,7 +52,11 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "sarit@kth.se"
 #phone = "888 888 88 88"
-address = "KTH Royal Institute of Technology, Stockholm, Sweden, 11557"
+address = "Division of Decision and Control Systems
+KTH School of Electrical Engineering and Computer Science
+Malvinas väg 10 (previously Osquldas väg 10), floor 6,
+SE-100 44 STOCKHOLM
+SWEDEN"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
