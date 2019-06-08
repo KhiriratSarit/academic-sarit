@@ -19,8 +19,8 @@ rsync -av ../themes/academic/exampleSite/content/authors/ ../content/authors/
 rsync -av --exclude gallery/ ../themes/academic/exampleSite/content/home/ ../content/home/
 
 # Install indices
-rsync -av ../themes/academic/exampleSite/content/post/_index.md ../content/post/_index.md
 rsync -av ../themes/academic/exampleSite/content/publication/_index.md ../content/publication/_index.md
+rsync -av ../themes/academic/exampleSite/content/post/_index.md ../content/post/_index.md
 rsync -av ../themes/academic/exampleSite/content/talk/_index.md ../content/talk/_index.md
 
 # Skip static dir - do not import the demo's media library
