@@ -14,16 +14,24 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+
+  
 [[feature]]
-  icon = "python"
+  icon = "maxcdn"
   icon_pack = "fab"
-  name = "Python"
-  description = "70%"
+  name = "MATLAB"
+  description = "90%"    
   
 [[feature]]
   icon = "spinner"
   icon_pack = "fas"
   name = "Julia"
+  description = "90%"  
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
   description = "70%"  
   
 [[feature]]
