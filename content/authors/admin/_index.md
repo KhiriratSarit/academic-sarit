@@ -28,15 +28,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD at Division of Decision and Control, EECS
+    institution: KTH Royal Institute of Technology
+    year: present
+  - course: MSc in Systems, Control and Robotics
+    institution: KTH Royal Insitute of Technology
+    year: 2017
+  - course: BSc in Electrical Engineering
+    institution: Chulalongkorn University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
