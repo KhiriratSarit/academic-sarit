@@ -21,6 +21,12 @@ subtitle = ""
   description = "70%"
   
 [[feature]]
+  icon = "cuttlefish"
+  icon_pack = "fab"
+  name = "C++"
+  description = "50%"  
+  
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Machine Learning"
