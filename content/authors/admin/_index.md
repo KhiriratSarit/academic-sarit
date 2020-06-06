@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Sarit Khirirat is currently a doctoral student under the supervision of Professor Mikael Johansson at Division of Decision and Control, EECS, KTH Royal Institute of Technology, Stockholm, Sweden. His research interest includes optimization algorithms for large-scale machine learning applications. 
+I am currently a doctoral student under the project on Embedded optimization for real-time machine learning at the cluster of large-scale optimization and control. This project is supported by the Wallenberg AI, Autonomous Systems and Software program, Sweden's largest individual research program. I am supervised by Professor Mikael Johansson at the Department of Automatic Control, Electrical Engineering School, KTH. The aim of my research project is to develop optimization algorithms for large-scale machine learning applications. 
