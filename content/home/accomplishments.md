@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   title = "Academic Doctoral Student"
   url = ""
   certificate_url = "https://wasp-sweden.org/research/wasp-clusters/large-scale-optimization-and-control/"
-  date_start = ""
-  date_end = "2017-07-01"
+  date_start = "2017-07-01"
+  date_end = ""
   description = ""
 
 
