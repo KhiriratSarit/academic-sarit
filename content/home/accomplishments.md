@@ -28,7 +28,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-"""
 
 [[item]]
   organization = "the Wallenberg AI, Autonomous Systems and Software program"
@@ -37,7 +36,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://wasp-sweden.org/research/wasp-clusters/large-scale-optimization-and-control/"
   date_start = ""
-  date_end = ""
+  date_end = "2017-07-01"
   description = ""
 
 
