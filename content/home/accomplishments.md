@@ -28,5 +28,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "the Wallenberg AI, Autonomous Systems and Software program"
+  organization_url = "https://wasp-sweden.org/"
+  title = "Academic Doctoral Student"
+  url = ""
+  certificate_url = "https://wasp-sweden.org/research/wasp-clusters/large-scale-optimization-and-control/"
+  date_start = ""
+  date_end = ""
+  description = ""
+
 
 +++
