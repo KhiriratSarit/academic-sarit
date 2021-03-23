@@ -71,8 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Sarit Khirirat received the B.Eng. degree in Electrical Engineering from Chulalongkorn University, Thailand, in 2013,  
-and the M.Sc. degree in Systems, Control and Robotics from KTH Royal Institute of Technology, Sweden, in 2017.
+Sarit Khirirat received the B.Eng. degree in Electrical Engineering from Chulalongkorn University, Thailand, in 2013, and the M.Sc. degree in Systems, Control and Robotics from KTH Royal Institute of Technology, Sweden, in 2017.
 
 He is currently a doctoral student at the Division of Decision and Control Systems at KTH Royal Institute of Technology, funded by [the Wallenberg AI, Autonomous Systems and Software program](https://wasp-sweden.org/), Sweden's largest individual research program. His research project is Embedded optimization for real-time machine learning at the cluster of large-scale optimization and control, under the supervision of Professor [Mikael Johansson](https://people.kth.se/~mikaelj/).
 This project is aimed at developing and characterizing efficient optimization methods for machine learning and federated learning applications over big data. 
