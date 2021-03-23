@@ -71,4 +71,8 @@ user_groups:
 - Visitors
 ---
 
-I am a doctoral student under the project on Embedded optimization for real-time machine learning at the cluster of large-scale optimization and control. This project is supported by [the Wallenberg AI, Autonomous Systems and Software program](https://wasp-sweden.org/), Sweden's largest individual research program. I am supervised by Professor [Mikael Johansson](https://people.kth.se/~mikaelj/) at the Department of Automatic Control, Electrical Engineering School, KTH. The aim of my research project is to develop optimization algorithms for large-scale machine learning applications. 
+Sarit Khirirat received the B.Eng. degree in Electrical Engineering from Chulalongkorn University, Thailand, in 2013,  
+and the M.Sc. degree in Systems, Control and Robotics from KTH Royal Institute of Technology, Sweden, in 2017.
+
+He is currently a doctoral student at the Division of Decision and Control Systems at KTH Royal Institute of Technology, funded by [the Wallenberg AI, Autonomous Systems and Software program](https://wasp-sweden.org/), Sweden's largest individual research program. His research project is Embedded optimization for real-time machine learning at the cluster of large-scale optimization and control, under the supervision of Professor [Mikael Johansson](https://people.kth.se/~mikaelj/).
+This project is aimed at developing and characterizing efficient optimization methods for machine learning and federated learning applications over big data. 
