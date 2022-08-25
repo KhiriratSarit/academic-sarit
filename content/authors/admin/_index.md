@@ -22,7 +22,7 @@ bio:  My research interest includes optimization algorithms for large-scale mach
 
 interests:
 - Numerical Optimization 
-- Communication-efficient Machine Learning 
+- Machine Learning 
 - Federated Learning 
 - Energy-aware IoT Systems 
 
