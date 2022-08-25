@@ -1,6 +1,6 @@
 ---
 title: "First-Order Algorithms for Communication Efficient Distributed Learning"
-date: 2022-09-01
+date: 2022-08-01
 authors: ["Sarit Khirirat"]
 publication_types: ["1"]
 abstract: "Innovations in numerical optimization, statistics and high performance computing have enabled tremendous advances in machine learning algorithms, fuelling applications from natural language processing to autonomous driving.To deal with increasing data volumes, and to keep the training times of increasingly complex machine learning models reasonable, modern optimization algorithms distribute both data and computations over a large number of machines. However, these algorithms face challenges, from hardware and data heterogeneity (as different machines have different processors and data) to privacy and security issues (where data can be extracted from the transmitted parameters).Among these challenges, communication overhead constitutes a major performance bottleneck of the algorithms.Communicating millions of problem parameters between machines has been reported to consumeup to 80% of the training time. To alleviate the communication bottleneck, we develop theory and strategies in this thesis to design communication-efficient optimization algorithms. 
