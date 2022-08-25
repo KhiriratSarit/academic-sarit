@@ -21,10 +21,10 @@ organizations:
 bio:  My research interest includes optimization algorithms for large-scale machine learning applications. 
 
 interests:
-- Optimization algorithms
-- Machine learning 
-- Low-precision training 
-- Compression techniques
+- Numerical Optimization 
+- Communication-efficient Machine Learning 
+- Federated Learning 
+- Energy-aware IoT Systems 
 
 education:
   courses:
