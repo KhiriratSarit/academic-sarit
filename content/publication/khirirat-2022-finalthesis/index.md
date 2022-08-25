@@ -11,6 +11,6 @@ In the second part, we provide flexible tuning frameworks to optimize convergenc
 
 Applications of the algorithms in the thesis to central machine learning problems on benchmark data validate our theoretical results."
 featured: true
-publication: "*Stockholm: KTH Royal Institute of Technology, 2022. , p. 233*"
+publication: "*PhD Thesis:: Stockholm: KTH Royal Institute of Technology, 2022. , p. 233*"
 ---
 

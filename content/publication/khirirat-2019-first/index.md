@@ -11,6 +11,6 @@ In the second part, we study how error compensation schemes can improve the perf
 
 Applications of the algorithms in this thesis to real-world problems with benchmark data sets validate our theoretical results."
 featured: true
-publication: "*Stockholm: KTH Royal Institute of Technology, 2019. , p. 106*"
+publication: "*Licentiate Thesis:: Stockholm: KTH Royal Institute of Technology, 2019. , p. 106*"
 ---
 
