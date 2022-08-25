@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD at Division of Decision and Control, EECS
     institution: KTH Royal Institute of Technology
-    year: present
+    year: 2022
   - course: MSc in Systems, Control and Robotics
     institution: KTH Royal Insitute of Technology
     year: 2017
