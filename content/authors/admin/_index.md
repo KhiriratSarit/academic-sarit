@@ -10,21 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD graduate 
+role: Postdoctoral Fellow  
 
 # Organizations/Affiliations
 organizations:
-- name: KTH Royal Institute of Technology
+- name: MBZUAI
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:  My research interest includes optimization algorithms for large-scale machine learning applications. 
+bio:  My research interest includes optimization algorithms for machine learning and federated learning applications. 
 
 interests:
 - Numerical Optimization 
 - Machine Learning 
 - Federated Learning 
 - Energy-aware IoT Systems 
+
 
 education:
   courses:
@@ -45,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:sarit@kth.se".
+  link: '#contact'  # For a direct email link, use "mailto:Sarit.Khirirat@mbzuai.ac.ae".
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
