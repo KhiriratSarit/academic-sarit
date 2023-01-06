@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "2023 IEEE International Conference on Acoustics, Speech and Signal Processing"
+  organization_url = "https://cemse.kaust.edu.sa/ai/aii-symp-2023"
+  title = "AI rising star (ranked top 20%)"
+  url = ""
+  certificate_url = "https://cemse.kaust.edu.sa/ai/aii-symp-2023"
+  date_start = "2023-01-01"
+  date_end = ""
+  description = ""
+
+
+
 [[item]]
   organization = "2019 IEEE International Conference on Acoustics, Speech and Signal Processing"
   organization_url = "https://2019.ieeeicassp.org/"
