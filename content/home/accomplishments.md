@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "2023 IEEE International Conference on Acoustics, Speech and Signal Processing"
+  organization = "KAUST AI Initiative headed by Prof. Jürgen Schmidhuber"
   organization_url = "https://cemse.kaust.edu.sa/ai/aii-symp-2023"
   title = "AI rising star (ranked top 20%)"
   url = ""
