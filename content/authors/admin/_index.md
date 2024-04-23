@@ -14,7 +14,7 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: MBZUAI
+- name: KAUST
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
